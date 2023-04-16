@@ -1,3 +1,10 @@
+ // LAST DEPLOY MAINNET ADDRESSÑ
+ /*
+  Faucet            deployed to: 0x58F8613AF9B062FEb94839fc64570476099766D0
+  SoliditySchool    deployed to: 0xa4eF9925feBFdAdE42e6f444B9fF414134eD2695
+  SoliditySchoolNFT deployed to: 0xEf85A404cfE4eB75F6d82eA7bC67C934906bC19B
+ */
+
 async function main() {
   const [deployer] = await ethers.getSigners();
 
